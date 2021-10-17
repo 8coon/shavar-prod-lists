@@ -7312,16 +7312,6 @@
         "mailchimp.com"
       ]
     },
-    "Mail.Ru": {
-      "properties": [
-        "list.ru",
-        "mail.ru"
-      ],
-      "resources": [
-        "list.ru",
-        "mail.ru"
-      ]
-    },
     "Manifest": {
       "properties": [
         "bannerbank.ru",
@@ -12294,14 +12284,18 @@
         "vizury.com"
       ]
     },
-    "VKontakte": {
+    "VK": {
       "properties": [
-        "vk.com"
+        "vk.com",
+        "mail.ru",
+        "list.ru"
       ],
       "resources": [
         "userapi.com",
         "vk.com",
-        "vkontakte.ru"
+        "vkontakte.ru",
+        "mail.ru",
+        "list.ru"
       ]
     },
     "Vocento": {
